@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 
 const EasySection = () => {
     return ( 
-        <section className="section has-background-white-ter">
+        <section className="section has-background-white-ter easy">
             <div className="container">
                 <div className="columns">
                     <div className="column has-text-centered">
