@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/foodplus/static/css/main.38db4926.chunk.css"
   },
   {
-    "revision": "1deda5bbb022e4cb983c73b4a63f0932",
+    "revision": "b4d3f22c2b94ea659b96cd52642ce19b",
     "url": "/foodplus/index.html"
   }
 ];
