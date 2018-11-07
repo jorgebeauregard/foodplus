@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 
 const HeroSection = () => {
     return ( 
-        <section className="hero has-background-buffet is-medium">
+        <section className="hero has-background-buffet is-fullheight">
             <div className="hero-body">
                 <div className="container">
                     <div className="columns is-multiline">
