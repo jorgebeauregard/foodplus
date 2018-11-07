@@ -6,7 +6,7 @@ const InstructionsSections = () => {
     return (
         <section className="section has-back-ground-white-ter">
             <div className="container">
-                <div className="columns margin-top">
+                <div className="columns">
                     <div className="column has-text-centered">
                         <Fade>
                         <h2 className="title is-2 is-size-3-mobile">spend your points <strong className="has-text-red">wisely</strong></h2>
