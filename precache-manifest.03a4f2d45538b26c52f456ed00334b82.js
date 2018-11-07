@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/foodplus/static/js/runtime~main.4d41cee6.js"
   },
   {
-    "revision": "b834ec7206fbd94aec08",
-    "url": "/foodplus/static/js/main.b834ec72.chunk.js"
+    "revision": "6fbfbfca5d6b8290f975",
+    "url": "/foodplus/static/js/main.6fbfbfca.chunk.js"
   },
   {
     "revision": "be07c53e533da58dab2d",
     "url": "/foodplus/static/js/1.be07c53e.chunk.js"
   },
   {
-    "revision": "b834ec7206fbd94aec08",
+    "revision": "6fbfbfca5d6b8290f975",
     "url": "/foodplus/static/css/main.410641cf.chunk.css"
   },
   {
-    "revision": "5e67fbca96017186b6969691645f77e1",
+    "revision": "bab4a4e75152fba00340f68c3ac5d165",
     "url": "/foodplus/index.html"
   }
 ];
