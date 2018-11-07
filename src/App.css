@@ -1,3 +1,8 @@
+.has-background-red-no-border{
+  background-color: #c62828;
+  border: none;
+}
+
 .has-background-red{
   background-color: #c62828;
 }
@@ -9,6 +14,12 @@
 .box-shadow{
   box-shadow: 0 .5rem .5rem 0rem rgba(10,10,10,.2);
   transition: all .4s ease-in-out;
+}
+
+.has-background-buffet{
+  background: rgba(0,0,0,0.5);
+  background-image: url("images/image.jpg");
+  background-size: cover;
 }
 
 .box-shadow:hover{
