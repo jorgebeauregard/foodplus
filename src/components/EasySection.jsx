@@ -8,7 +8,7 @@ const EasySection = () => {
                 <div className="columns margin-top">
                     <div className="column has-text-centered">
                         <Fade top>
-                        <h2 className="title is-1">
+                        <h2 className="title is-1 is-size-2-mobile">
                             easy as <strong className="has-text-red">1-2-3</strong>
                         </h2>
                         </Fade>
@@ -19,7 +19,7 @@ const EasySection = () => {
                 <div className="columns margin-top">
                     <div className="column has-text-centered">
                         <div className="box has-background-red box-shadow">
-                            <h3 className="title is-size-2 has-text-white has-text-centered">step 1</h3>
+                            <h3 className="title is-size-2 is-size-3-mobile has-text-white has-text-centered">step 1</h3>
                             <span class="icon is-large ">
                                 <i class="fas fa-3x fa-id-card has-text-white"></i>
                             </span><br/><br/>
@@ -29,7 +29,7 @@ const EasySection = () => {
 
                     <div className="column has-text-centered">
                         <div className="box has-background-red box-shadow">
-                            <h3 className="title is-size-2 has-text-white has-text-centered">step 2</h3>
+                            <h3 className="title is-size-2 is-size-3-mobile has-text-white has-text-centered">step 2</h3>
                             <span class="icon is-large ">
                                 <i class="fas fa-3x fa-mobile-alt has-text-white"></i>
                             </span><br/><br/>
@@ -39,7 +39,7 @@ const EasySection = () => {
 
                     <div className="column has-text-centered">
                         <div className="box has-background-red box-shadow">
-                            <h3 className="title is-size-2 has-text-white has-text-centered">step 3</h3>
+                            <h3 className="title is-size-2 is-size-3-mobile has-text-white has-text-centered">step 3</h3>
                             <span class="icon is-large ">
                                 <i class="fas fa-3x fa-dollar-sign has-text-white"></i>
                             </span><br/><br/>
