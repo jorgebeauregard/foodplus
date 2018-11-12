@@ -39,3 +39,12 @@
 .margin-top{
   margin-top: 40px;
 }
+
+.little-margin-left{
+  margin-left: 12px;
+}
+
+.popular{
+  box-shadow: 0 3rem 3rem -1rem rgba(10,10,10,.2); 
+  transform: scale(1.05);
+}

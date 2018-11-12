@@ -2,9 +2,12 @@ import React, { Component } from 'react';
 import HeroSection from './components/HeroSection';
 import EasySection from './components/EasySection';
 import PointsSection from './components/PointsSection';
-import InstructionsSections from './components/InstructionsSection';
+import InstructionsSection from './components/InstructionsSection';
 import NavSection from './components/NavSection';
 import './App.css';
+import WhoSection from './components/WhoSection';
+import PlansSection from './components/PlansSection';
+import ReadySection from './components/ReadySection';
 
 class App extends Component {
   render() {
@@ -12,9 +15,12 @@ class App extends Component {
       <div>
         <NavSection/>
         <HeroSection/>
+        <WhoSection/>
         <EasySection/>
         <PointsSection/>
-        <InstructionsSections/>
+        <PlansSection/>
+        <ReadySection/>
+        <InstructionsSection/>
       </div>
     );
   }

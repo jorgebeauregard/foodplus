@@ -37,7 +37,7 @@ const EasySection = () => {
                                     <i class="fas fa-3x fa-mobile-alt has-text-white"></i>
                                 </span><br/><br/>
                                 <p className="subtitle has-text-white is-4 is-hidden-mobile">download the app and keep <br/> an eye on the restaurants <br/> that interest you</p>
-                                <p className="subtitle has-text-white is-4 is-hidden-fullhd">download the app and keep an eye on the restaurants that interest you</p>
+                                <p className="subtitle has-text-white is-4 is-hidden-widescreen">download the app and keep an eye on the restaurants that interest you</p>
                             </div> 
                         </div>
                     </Fade>

@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 
 const InstructionsSections = () => {
     return (
-        <section className="section has-back-ground-white-ter">
+        <section className="section has-background-white-ter">
             <div className="container">
                 <div className="columns">
                     <div className="column has-text-centered">
