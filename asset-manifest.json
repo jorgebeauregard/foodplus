@@ -1,14 +1,14 @@
 {
-  "main.css": "/foodplus/static/css/main.410641cf.chunk.css",
-  "main.js": "/foodplus/static/js/main.42f0fd3a.chunk.js",
-  "main.js.map": "/foodplus/static/js/main.42f0fd3a.chunk.js.map",
-  "static/js/1.be07c53e.chunk.js": "/foodplus/static/js/1.be07c53e.chunk.js",
-  "static/js/1.be07c53e.chunk.js.map": "/foodplus/static/js/1.be07c53e.chunk.js.map",
+  "main.css": "/foodplus/static/css/main.ec4978bf.chunk.css",
+  "main.js": "/foodplus/static/js/main.1a7b206f.chunk.js",
+  "main.js.map": "/foodplus/static/js/main.1a7b206f.chunk.js.map",
+  "static/js/1.d72bef17.chunk.js": "/foodplus/static/js/1.d72bef17.chunk.js",
+  "static/js/1.d72bef17.chunk.js.map": "/foodplus/static/js/1.d72bef17.chunk.js.map",
   "runtime~main.js": "/foodplus/static/js/runtime~main.4d41cee6.js",
   "runtime~main.js.map": "/foodplus/static/js/runtime~main.4d41cee6.js.map",
   "static/media/App.css": "/foodplus/static/media/image.ac5e7b5f.jpg",
-  "static/css/main.410641cf.chunk.css.map": "/foodplus/static/css/main.410641cf.chunk.css.map",
+  "static/css/main.ec4978bf.chunk.css.map": "/foodplus/static/css/main.ec4978bf.chunk.css.map",
   "index.html": "/foodplus/index.html",
-  "precache-manifest.9fb3b3a6c4125828d185f2045e2906a2.js": "/foodplus/precache-manifest.9fb3b3a6c4125828d185f2045e2906a2.js",
+  "precache-manifest.53c74459932c25454f468905fa81e55b.js": "/foodplus/precache-manifest.53c74459932c25454f468905fa81e55b.js",
   "service-worker.js": "/foodplus/service-worker.js"
 }
